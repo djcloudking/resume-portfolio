@@ -40,8 +40,8 @@ My journey in cloud consulting and engineering has led me to develop a passion f
 <div>
 <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
 <img src="https://img.shields.io/badge/Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux%20Essentials-231F20?style=for-the-badge&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+// <img src="https://img.shields.io/badge/Linux%20Essentials-231F20?style=for-the-badge&logo=linux&logoColor=FCC624" />
+// <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
 </div>
 
 ## Projects
