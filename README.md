@@ -1,15 +1,17 @@
 ## Hello, I am DJ. 👋
 
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/djakaridiakone/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Cloud consultant with experience in a Cloud Engineering, DevOps Engineering, Site Reliability Engineering, Cloud Infrastructure & Operations. Familiar with ITIL 4 & Agile environment, DJ lives and breathes Cloud Technologies.
+
 
 ## Objective
 
 
-My journey in cloud consulting and engineering has led me to develop a passion for devops, and I am now eager to transition into this field.
+My journey in cloud consulting and engineering has led me to develop a passion for devops, and I am now eager to show you the personal projects I worked on to foster my continuous learning journey.
+
 
 ## Skills
 
@@ -34,13 +36,12 @@ My journey in cloud consulting and engineering has led me to develop a passion f
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Linux%20Essentials-231F20?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </div>
 
 ## Projects
