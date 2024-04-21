@@ -17,10 +17,12 @@ My journey in cloud consulting and engineering has led me to develop a passion f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud platform: AWS                           | 1. <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/11_Connect%20to%20EC2%20Instances%20with%20SSH%20and%20RDP/How%20to%20troubleshoot%20EC2%20instances.md">Connect to EC2 Instances with SSH and RDP</a>
-                                                  2. <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/10_Creating%20a%20static%20website%20in%20S3/Creating%20a%20static%20website%20in%20S3.md">Creating a static website in S3</a>
-                                                  3. <a href="https://medium.com/@djakkone/project-2-build-a-serverless-app-using-api-gateway-lambda-sns-s3-4d77a23b07f3">Build a Serverless App on AWS using API Gateway, Lambda, SNS, S3</a> |
-| Cloud platform: AWS                           | |
+| Cloud platform: AWS                           | <ol>
+                                                      <li><a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/11_Connect%20to%20EC2%20Instances%20with%20SSH%20and%20RDP/How%20to%20troubleshoot%20EC2%20instances.md">Connect to EC2 Instances with SSH and RDP</a></li>
+                                                      <li><a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/10_Creating%20a%20static%20website%20in%20S3/Creating%20a%20static%20website%20in%20S3.md">Creating a static website in S3</a></li>
+                                                      <li><a href="https://medium.com/@djakkone/project-2-build-a-serverless-app-using-api-gateway-lambda-sns-s3-4d77a23b07f3">Build a Serverless App on AWS using API Gateway, Lambda, SNS, S3</a></li>
+                                                  </ol>                       |                                                
+| Cloud platform: AWS                           | a |
 | Programming: Python                           | <a href="https://github.com/djcloudking/python-challenges">Create a Shopping Cart script in python</a>|
 | Scripting: Bash, Shell, Yaml, Json            | <a href="https://github.com/djcloudking/shell-scripting/blob/main/Linux/Unix/How%20to%20install%20a%20web%20server%20on%20Linux.pdf">How to install a web server on Linux</a>|
 | Server Administration: Linux, Apache, Nginx, Windows         | <a href="https://github.com/djcloudking/devops-challenges/blob/main/Apache%20%26%20Nginx/Readme.md">Installing NGINX, MySQL, PHP and WordPress on Ubuntu</a>|
