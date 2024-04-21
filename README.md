@@ -1,10 +1,9 @@
 ## Hello, I am DJ. 👋
 
 
-<a href="https://www.linkedin.com/in/djakaridiakone/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
 I am a Cloud consultant with experience in a Cloud Engineering, DevOps Engineering, Site Reliability Engineering, Cloud Infrastructure & Operations. Familiar with ITIL 4 & Agile environment, DJ lives and breathes Cloud Technologies.
+
+Learn more about me ==>> <a href="https://www.linkedin.com/in/djakaridiakone/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 ## Objective
@@ -60,6 +59,10 @@ My journey in cloud consulting and engineering has led me to develop a passion f
 
 - Installing NGINX, MySQL, PHP and WordPress on Ubuntu
   
-- Terraform	Using Terraform To Deploy a Web Server
+- Using Terraform To Deploy a Web Server
+
+- Creating a MySQL RDS single-AZ database instance
+
+- Steps by steps guide to build your CI/CD pipeline with GitHub Actions
 
 
