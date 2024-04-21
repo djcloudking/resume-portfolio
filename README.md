@@ -77,7 +77,7 @@ Currently working on few certifications. I will keep you updated.
 <!--  <img src="https://img.shields.io/badge/Linux%20Essentials-231F20?style=for-the-badge&logo=linux&logoColor=FCC624" />  -->
 <!--  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" /> -->
 </div>
--->
+
 
 ## Projects
 
