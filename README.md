@@ -23,17 +23,18 @@ My journey in cloud consulting and engineering has led me to develop a passion f
 | Programming: Python                           | <a href="https://github.com/djcloudking/python-challenges">Create a Shopping Cart script in python</a>|
 | Scripting: Bash, Shell, Yaml, Json            | <a href="https://github.com/djcloudking/shell-scripting/blob/main/Linux/Unix/How%20to%20install%20a%20web%20server%20on%20Linux.pdf">How to install a web server on Linux</a>|
 | Server Administration: Linux, Apache, Nginx, Windows         | <a href="https://github.com/djcloudking/devops-challenges/blob/main/Apache%20%26%20Nginx/Readme.md">Installing NGINX, MySQL, PHP and WordPress on Ubuntu</a>|
-| Databases: NoSQL, AWS DynamoDB, SQL, MySQL    | Databases: NoSQL, AWS DynamoDB, SQL, MySQL |
+| Databases: NoSQL, AWS DynamoDB, SQL, MySQL    | <a href="https://medium.com/@djakkone/creating-a-mysql-rds-single-az-database-instance-e747b6145d99"> Creating a MySQL RDS single-AZ database instance</a> |
 | Network & Security                            | Network & Security |
 | Infrastructure as Code: Terraform             | <a href="https://github.com/djcloudking/python-challenges">Using Terraform To Deploy a Web Server</a>|
 | Infrastructure as Code: AWS CloudFormation    | Infrastructure as Code: AWS CloudFormation |
 | Configuration Management: Ansible             | Configuration Management: Ansible|
 | Containers: Docker, AWS ECS                   | Containers: Docker, AWS ECS   |
 | Orchestrator: Kubernetes, EKS                 | Orchestrator: Kubernetes, EKS |
-| CI/CD: Jenkins, AWS CodePipeline, GitHub Actions    | CI/CD: Jenkins, AWS CodePipeline   |
-| Monitoring           | Monitoring |
+| CI/CD: Jenkins    | CI/CD: Jenkins, AWS CodePipeline   |
+| CI/CD: GitHub Actions    | <a href="https://medium.com/@djakkone/steps-by-steps-guide-to-build-your-ci-cd-pipeline-with-github-actions-d057932e825f">Steps by steps guide to build your CI/CD pipeline with GitHub Actions</a>|  |
+| Monitoring           | <a href="https://medium.com/@djakkone/using-cloudwatch-dashboards-to-monitor-ec2-instance-4c46d131be9f">Using CloudWatch Dashboards To Monitor EC2 Instance</a> |
 | Logging                  | <a href="https://github.com/djcloudking/python-challenges">Create a Shopping Cart script in python</a>|
-| Other Technical Acumen                 | Asana |
+| Other Technical Acumen                 | Asana, GitHub, Git, Box, Drive, ServiceNow, Harshicorp Vault, Azure AD, Sharepoint, MS Office |
 
 
 
