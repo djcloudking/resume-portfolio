@@ -13,7 +13,7 @@ Find out more about me & feel free to connect with me here:
 ## Objective
 
 
-My journey in cloud consulting and engineering has led me to develop a passion for devops, and I am now eager to show you the personal projects I worked on to foster my continuous learning journey.
+My journey in cloud consulting and engineering has led me to develop a passion for devops, and I am now eager to show you the personal projects, outside of work, I worked on to foster my continuous learning journey.
 
 
 ## Skills
