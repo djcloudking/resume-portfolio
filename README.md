@@ -5,7 +5,7 @@ I am Djakaridia Kone, also known as DJ. I am a Cloud & DevOps Engineer. I also h
 Find out more about me & feel free to connect with me here:
 
 
-<a href="https://www.linkedin.com/in/djakaridiakone/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Dj%20Kone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/djakaridiakone/)](https://www.linkedin.com/in/djakaridiakone/)
 [![Medium Badge](https://img.shields.io/badge/DJ.%20Kone-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@djakkone)](https://medium.com/@djakkone)
 [![Gmail Badge](https://img.shields.io/badge/-djkone2025@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djkone2025@gmail.com)](mailto:djkone2025@gmail.com)
 
