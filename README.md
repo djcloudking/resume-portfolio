@@ -24,7 +24,7 @@ My journey in cloud consulting and engineering has led me to develop a passion f
 |-----------------------------------------------|----------------------------|
 | Cloud platform: AWS                           | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/11_Connect%20to%20EC2%20Instances%20with%20SSH%20and%20RDP/How%20to%20troubleshoot%20EC2%20instances.md">Connect to EC2 Instances with SSH and RDP</a>|                    
 | Cloud platform: AWS                          | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/10_Creating%20a%20static%20website%20in%20S3/Creating%20a%20static%20website%20in%20S3.md">Creating a static website in S3</a>|
-| Cloud platform: AWS                          | <a href="https://medium.com/@djakkone/project-2-build-a-serverless-app-using-api-gateway-lambda-sns-s3-4d77a23b07f3">Build a Serverless App on AWS using API Gateway, Lambda, SNS, S3</a>|
+| AWS DevOps                         | <a href="https://medium.com/@djakkone/project-2-build-a-serverless-app-using-api-gateway-lambda-sns-s3-4d77a23b07f3">Build a Serverless App on AWS using API Gateway, Lambda, SNS, S3</a>|
 | Programming: Python                           | <a href="https://github.com/djcloudking/python-challenges">Create a Shopping Cart script in python</a>|
 | Scripting: Bash, Shell, Yaml, Json            | <a href="https://github.com/djcloudking/shell-scripting/blob/main/Linux/Unix/How%20to%20install%20a%20web%20server%20on%20Linux.pdf">How to install a web server on Linux</a>|
 | Server Administration: Linux, Apache, Nginx, Windows         | <a href="https://github.com/djcloudking/devops-challenges/blob/main/Apache%20%26%20Nginx/Readme.md">Installing NGINX, MySQL, PHP and WordPress on Ubuntu</a>|
@@ -33,15 +33,15 @@ My journey in cloud consulting and engineering has led me to develop a passion f
 | Infrastructure as Code: Terraform             | <a href="https://github.com/djcloudking/terraform-challenges/blob/main/Using%20Terraform%20in%20DevOps/Using%20Terraform%20To%20Deploy%20a%20Web%20Server.md"> Deploy a Web Server Using Terraform </a>|
 | Infrastructure as Code: AWS CloudFormation    | <a href="https://github.com/djcloudking/aws-cloudformation/blob/main/Deploy%20S3/How%20To%20Deploy%20S3%20bucket%20using%20AWS%20CloudFormation.md"> Deploy S3 bucket using AWS CloudFormation </a>|
 | Configuration Management: Ansible             | Configuration Management: Ansible|
-| Containers: Docker, AWS ECS                   | Docker   |
-| Containers: Docker, AWS ECS                   |  AWS ECS   |
-| Orchestrator: Kubernetes, EKS                 | Kubernetes |
-| Orchestrator: Kubernetes, EKS                 | EKS |
-| CI/CD: Jenkins, GitHub Actions, AWS CodePipeline    | Jenkins    |
-| CI/CD: Jenkins, GitHub Actions, AWS CodePipeline     | <a href="https://medium.com/@djakkone/steps-by-steps-guide-to-build-your-ci-cd-pipeline-with-github-actions-d057932e825f">Steps by steps guide to build your CI/CD pipeline with GitHub Actions</a>|  
-| CI/CD: Jenkins, GitHub Actions, AWS CodePipeline     | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/12_AWS%20Codepipeline/Creating%20your%20first%20Pipeline%20between%20S3%20buckets.md"> Create your first CI/CD Pipeline Using AWS CodePipeline </a>  |
-| Monitoring           | <a href="https://medium.com/@djakkone/using-cloudwatch-dashboards-to-monitor-ec2-instance-4c46d131be9f">Using CloudWatch Dashboards To Monitor EC2 Instance</a> |
-| Logging                  | Logging |
+| Containers: Docker                            | Docker   |
+| Containers: Docker                            |  AWS ECS   |
+| Orchestrator: Kubernetes                      | Kubernetes |
+| Orchestrator: EKS                             | EKS |
+| CI/CD: Jenkins                                | Jenkins    |
+| CI/CD: GitHub Actions                         | <a href="https://medium.com/@djakkone/steps-by-steps-guide-to-build-your-ci-cd-pipeline-with-github-actions-d057932e825f">Steps by steps guide to build your CI/CD pipeline with GitHub Actions</a>|  
+| CI/CD: AWS CodePipeline                       | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/12_AWS%20Codepipeline/Creating%20your%20first%20Pipeline%20between%20S3%20buckets.md"> Create your first CI/CD Pipeline Using AWS CodePipeline </a>  |
+| Monitoring                | <a href="https://medium.com/@djakkone/using-cloudwatch-dashboards-to-monitor-ec2-instance-4c46d131be9f">Using CloudWatch Dashboards To Monitor EC2 Instance</a> |
+| Logging                                       | Logging |
 
 
 ## Technologies
@@ -57,7 +57,7 @@ My journey in cloud consulting and engineering has led me to develop a passion f
 <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/Nginx-%23269539.svg?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-%23D22128.svg?style=flat-square&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=windows&logoColor=white"/>
@@ -88,6 +88,8 @@ Currently working on few certifications. I will keep you updated.
 - Connect to EC2 Instances with SSH and RDP
 
 - Creating a static website in S3
+
+- Build a Serverless App on AWS using API Gateway, Lambda, SNS, S3
   
 -	Create a Shopping Cart script in python
 
@@ -99,8 +101,13 @@ Currently working on few certifications. I will keep you updated.
 
 - Creating a MySQL RDS single-AZ database instance
 
+- Deploy a Web Server Using Terraform
+
+- Deploy S3 bucket using AWS CloudFormation
+
 - Steps by steps guide to build your CI/CD pipeline with GitHub Actions
 
+- Create your first CI/CD Pipeline Using AWS CodePipeline
 
 
 ## GitHub Statistics
