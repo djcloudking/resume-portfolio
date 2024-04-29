@@ -30,13 +30,16 @@ My journey in cloud consulting and engineering has led me to develop a passion f
 | Server Administration: Linux, Apache, Nginx, Windows         | <a href="https://github.com/djcloudking/devops-challenges/blob/main/Apache%20%26%20Nginx/Readme.md">Installing NGINX, MySQL, PHP and WordPress on Ubuntu</a>|
 | Databases: NoSQL, AWS DynamoDB, SQL, MySQL    | <a href="https://medium.com/@djakkone/creating-a-mysql-rds-single-az-database-instance-e747b6145d99"> Creating a MySQL RDS single-AZ database instance</a> |
 | Network & Security                            | Network & Security |
-| Infrastructure as Code: Terraform             | <a href="https://github.com/djcloudking/python-challenges">Using Terraform To Deploy a Web Server</a>|
-| Infrastructure as Code: AWS CloudFormation    | Infrastructure as Code: AWS CloudFormation |
+| Infrastructure as Code: Terraform             | <a href="https://github.com/djcloudking/terraform-challenges/blob/main/Using%20Terraform%20in%20DevOps/Using%20Terraform%20To%20Deploy%20a%20Web%20Server.md"> Deploy a Web Server Using Terraform </a>|
+| Infrastructure as Code: AWS CloudFormation    | <a href="https://github.com/djcloudking/aws-cloudformation/blob/main/Deploy%20S3/How%20To%20Deploy%20S3%20bucket%20using%20AWS%20CloudFormation.md> Deploy S3 bucjet using AWS CloudFormation </a>|
 | Configuration Management: Ansible             | Configuration Management: Ansible|
-| Containers: Docker, AWS ECS                   | Containers: Docker, AWS ECS   |
-| Orchestrator: Kubernetes, EKS                 | Orchestrator: Kubernetes, EKS |
-| CI/CD: Jenkins    | CI/CD: Jenkins, AWS CodePipeline   |
-| CI/CD: GitHub Actions    | <a href="https://medium.com/@djakkone/steps-by-steps-guide-to-build-your-ci-cd-pipeline-with-github-actions-d057932e825f">Steps by steps guide to build your CI/CD pipeline with GitHub Actions</a>|  |
+| Containers: Docker, AWS ECS                   | Docker   |
+| Containers: Docker, AWS ECS                   |  AWS ECS   |
+| Orchestrator: Kubernetes, EKS                 | Kubernetes |
+| Orchestrator: Kubernetes, EKS                 | EKS |
+| CI/CD: Jenkins, GitHub Actions, AWS CodePipeline    | Jenkins    |
+| CI/CD: Jenkins, GitHub Actions, AWS CodePipeline     | <a href="https://medium.com/@djakkone/steps-by-steps-guide-to-build-your-ci-cd-pipeline-with-github-actions-d057932e825f">Steps by steps guide to build your CI/CD pipeline with GitHub Actions</a>|  
+| CI/CD: Jenkins, GitHub Actions, AWS CodePipeline     | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/12_AWS%20Codepipeline/Creating%20your%20first%20Pipeline%20between%20S3%20buckets.md"> Create your first CI/CD Pipeline Using AWS CodePipeline </a>  |
 | Monitoring           | <a href="https://medium.com/@djakkone/using-cloudwatch-dashboards-to-monitor-ec2-instance-4c46d131be9f">Using CloudWatch Dashboards To Monitor EC2 Instance</a> |
 | Logging                  | <a href="https://github.com/djcloudking/python-challenges">Create a Shopping Cart script in python</a>|
 
