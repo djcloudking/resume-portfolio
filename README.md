@@ -112,7 +112,7 @@ Currently working on few certifications. I will keep you updated.
 
 ## GitHub Statistics
 
-**Repositories:**<a href="https://github.com/djcloudking?tab=repositories">View all my repositories</a>
+**Repositories:** <a href="https://github.com/djcloudking?tab=repositories">View all my repositories</a>
 
 
 
