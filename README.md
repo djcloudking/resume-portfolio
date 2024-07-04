@@ -82,32 +82,28 @@ Currently working on few certifications. I will keep you updated.
 </div>
 
 
-## Projects
+## Repositories: Find all my Cloud and DevOps Projects
 
 
-- Connect to EC2 Instances with SSH and RDP
+- <a href="https://github.com/djcloudking/aws-skills-challenges"> aws-skills-challenges: This repo is for showing how I use AWS services throughout different projects. </a>
 
-- Creating a static website in S3
+- <a href="https://github.com/djcloudking/terraform-challenges"> terraform-challenges: This repo is for showing how I build cloud infrastructures using Terraform. </a>
 
-- Build a Serverless App on AWS using API Gateway, Lambda, SNS, S3
-  
--	Create a Shopping Cart script in python
+- <a href="https://github.com/djcloudking/aws-cloudformation"> aws-cloudformation-challenges: This is a Repository for showing how I build AWS infrastructures using CloudFormation templates. </a>
 
-- How to install a web server on Linux
+- <a href="https://github.com/djcloudking/python-challenges"> python-challenges: This is a Repository showing my mini projects using Python scripts. </a>
 
-- Installing NGINX, MySQL, PHP and WordPress on Ubuntu
-  
-- Using Terraform To Deploy a Web Server
+- <a href="https://github.com/djcloudking/shell-scripting"> shell-scripting-challenges: This repo is for showing all my Scripting projects. </a>
 
-- Creating a MySQL RDS single-AZ database instance
+- <a href="https://github.com/djcloudking/ci-cd-challenges"> ci-cd-challenges: This is a Repository for showing how to implement, deploy and manage CI/CD pipelines using Jenkins, AWS CodePipeline, GitHub Actions, GitLab, and others. </a>
 
-- Deploy a Web Server Using Terraform
+- <a href="https://github.com/djcloudking/docker-challenges"> docker-challenges: This repo is for showing how I use Docker in different projects. </a>
 
-- Deploy S3 bucket using AWS CloudFormation
+- <a href="https://github.com/djcloudking/kubernetes-challenges"> kubernetes-challenges: This repo is for showing Kubernetes in my DevOps projects. </a>
 
-- Steps by steps guide to build your CI/CD pipeline with GitHub Actions
+- <a href="https://github.com/djcloudking/ansible-challenges"> ansible-challenges: This is a Repository for showing how I use Ansible throughout different projects.</a>
 
-- Create your first CI/CD Pipeline Using AWS CodePipeline
+- <a href="https://github.com/djcloudking/devops-skills"> devops-skills-challenges: This is a Repository for showing my latest devops projects. </a>
 
 
 ## GitHub Statistics
