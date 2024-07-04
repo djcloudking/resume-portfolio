@@ -37,7 +37,7 @@ My journey in cloud consulting and engineering has led me to develop a passion f
 | Containers: Docker                            |  AWS ECS   |
 | Orchestrator: Kubernetes                      | Kubernetes |
 | Orchestrator: EKS                             | EKS |
-| CI/CD: Jenkins                                | Jenkins    |
+| CI/CD: Jenkins                                | <a href="https://github.com/djcloudking/ci-cd-challenges/blob/main/Jenkins/Deploying%20CI%20CD%20pipelines%20using%20Jenkins%20and%20Terraform.md">Deploying CI CD pipelines using Jenkins and Terraform </a>  |
 | CI/CD: GitHub Actions                         | <a href="https://medium.com/@djakkone/steps-by-steps-guide-to-build-your-ci-cd-pipeline-with-github-actions-d057932e825f">Steps by steps guide to build your CI/CD pipeline with GitHub Actions</a>|  
 | CI/CD: AWS CodePipeline                       | <a href="https://github.com/djcloudking/aws-skills-challenges/blob/main/12_AWS%20Codepipeline/Creating%20your%20first%20Pipeline%20between%20S3%20buckets.md"> Create your first CI/CD Pipeline Using AWS CodePipeline </a>  |
 | Monitoring                | <a href="https://medium.com/@djakkone/using-cloudwatch-dashboards-to-monitor-ec2-instance-4c46d131be9f">Using CloudWatch Dashboards To Monitor EC2 Instance</a> |
