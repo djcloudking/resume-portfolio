@@ -1,14 +1,14 @@
-##  Hello there! Thanks for stopping 👋
+####  Hello there! Thanks for stopping 👋
 
-I am Djakaridia Kone, also known as DJ. I am a Cloud Engineer with experience in AWS, Terraform, Python & other DevOps tools. This repo is a quick summary of project portfolio when I started my cloud & DevOps journey. 
+I am Djakaridia Kone, also known as DJ. I am a Cloud Engineer with experience in AWS, Terraform, Python & other DevOps tools.  
 
 
-## Objective
+#### Objective
 
 This repo is to showcase my technical depth and breadth in cloud and DevOps to recruiters and Hiring Managers. 
 
 
-## Projects
+#### Projects
 
 
 | Skills                                         | Associated Projects         |
@@ -20,12 +20,13 @@ This repo is to showcase my technical depth and breadth in cloud and DevOps to r
 | Monitoring & Logging               | <a href="https://medium.com/@djakkone/using-cloudwatch-dashboards-to-monitor-ec2-instance-4c46d131be9f">Using CloudWatch Dashboards To Monitor EC2 Instance</a> |
 
 
-## Find all my Repositories & Projects
+#### Discover more Projects below
 
 <a href="https://github.com/djcloudking?tab=repositories"> GitHub Repositories </a>
 
 
-## Feel free to connect with me here: 
+
+#### Feel free to connect with me here: 
 
 - <a href="https://cloudwithdj.com/"> Website </a>
 
