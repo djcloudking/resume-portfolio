@@ -5,7 +5,7 @@ I am Djakaridia Kone, also known as DJ. I am a Cloud Engineer with experience in
 
 #### Objective
 
-This repo is to showcase my technical depth and breadth in cloud and DevOps to recruiters and Hiring Managers. 
+This repo is to showcase my technical depth and breadth in cloud and DevOps to recruiters and Hiring Managers. I am #OpenToWork, Contact me.
 
 
 #### Projects
