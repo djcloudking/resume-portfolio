@@ -1,9 +1,6 @@
 ##  Hello there! Thanks for stopping 👋
 
 I am Djakaridia Kone, also known as DJ. I am a Cloud Engineer with experience in AWS, Terraform, Python & other DevOps tools. This repo is a quick summary of project portfolio when I started my cloud & DevOps journey. 
-Feel free to connect with me here: 
-[![Medium Badge](https://img.shields.io/badge/DJ.%20Kone-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@djakkone)](https://medium.com/@djakkone)
-
 
 
 ## Objective
@@ -28,7 +25,7 @@ This repo is to showcase my technical depth and breath in cloud and DevOps to re
 <a href="https://github.com/djcloudking?tab=repositories"> GitHub Repositories </a>
 
 
-## Other Contribution
+## Feel free to connect with me here: 
 
 - <a href="https://cloudwithdj.com/"> Website </a>
 
