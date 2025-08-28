@@ -1,4 +1,5 @@
 ### 👋 About Me
+---
 
 I’m **Djakaridia Kone (DJ)** — a Cloud Engineer with experience designing secure, scalable, and cost-effective cloud solutions on **AWS**. I focus on automation, infrastructure as code, and cloud optimization.  
 
