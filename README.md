@@ -46,9 +46,9 @@ Cloud & DevOps Engineering | Site Reliability, Infrastructure & Platform Enginee
 
 ---
 
-#### Discover more Projects below
+#### Discover my GitHub profile
 
-<a href="https://github.com/djcloudking?tab=repositories"> GitHub Repositories </a>
+<a href="https://github.com/djcloudking/"> GitHub Profile </a>
 
 
 ---
